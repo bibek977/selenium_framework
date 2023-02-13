@@ -1,0 +1,12 @@
+14/02/2023 12:22:53 AM: INFO: test_login: test_001: Test Case started
+14/02/2023 12:22:53 AM: INFO: test_login: test_001: Test Case 001
+14/02/2023 12:22:54 AM: INFO: test_login: test_001: Username entered
+14/02/2023 12:22:54 AM: INFO: test_login: test_001: Password Entered
+14/02/2023 12:22:56 AM: INFO: test_login: test_001: Login button clicked
+14/02/2023 12:22:58 AM: INFO: test_login: test_001: Login Successful
+14/02/2023 12:22:58 AM: INFO: logger: log: ====== WebDriver manager ======
+14/02/2023 12:22:58 AM: INFO: logger: log: Get LATEST chromedriver version for google-chrome 110.0.5481
+14/02/2023 12:22:59 AM: INFO: logger: log: Driver [/home/bibek/.wdm/drivers/chromedriver/linux64/110.0.5481/chromedriver] found in cache
+14/02/2023 12:23:13 AM: INFO: logger: log: ====== WebDriver manager ======
+14/02/2023 12:23:13 AM: INFO: logger: log: Get LATEST chromedriver version for google-chrome 110.0.5481
+14/02/2023 12:23:13 AM: INFO: logger: log: Driver [/home/bibek/.wdm/drivers/chromedriver/linux64/110.0.5481/chromedriver] found in cache
