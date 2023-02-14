@@ -5,6 +5,7 @@ import time
 from PageObjects.Dashboard import DashboardPage
 from PageObjects.LoginPage import Login
 from PageObjects.Emp_status import Emp_status
+from Utilities.random_status import status_gen
 
 @pytest.mark.usefixtures("setup")
 class TestEmpSts():
@@ -44,7 +45,7 @@ class TestEmpSts():
         time.sleep(3)
         es.click_addsts()
         time.sleep(3)
-        es.input_namests("automation scraping")
+        es.input_namests(status_gen())
         time.sleep(3)
         es.click_savasts()
         time.sleep(6)
